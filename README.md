@@ -1,4 +1,5 @@
 ## Hi there 👋
+💻🚀❤️‍🔥🎶
 Bem-vindo(a)! Sou estudante de Engenharia de Software na UnB e apaixonado por desenvolvimento de tecnologias. Curioso por novas tendências, estou sempre em busca de aprimorar minhas habilidades e compartilhar projetos que possam fazer a diferença. Vamos colaborar e aprender juntos? 🚀
 
 
