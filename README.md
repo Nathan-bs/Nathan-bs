@@ -1,5 +1,5 @@
 ## Hi there 👋
-Bem-vindo(a)! Sou estudante de Engenharia de Software na UnB e apaixonado(a) por desenvolvimento de tecnologias. Curioso(a) por novas tendências, estou sempre em busca de aprimorar minhas habilidades e compartilhar projetos que possam fazer a diferença. Vamos colaborar e aprender juntos? 🚀
+Bem-vindo(a)! Sou estudante de Engenharia de Software na UnB e apaixonado por desenvolvimento de tecnologias. Curioso por novas tendências, estou sempre em busca de aprimorar minhas habilidades e compartilhar projetos que possam fazer a diferença. Vamos colaborar e aprender juntos? 🚀
 
 
 Welcome! I'm a Software Engineering student at UnB, passionate about technology development. Always curious about new trends, I'm constantly looking to improve my skills and share projects that can make a difference. Let's collaborate and learn together! 🚀
