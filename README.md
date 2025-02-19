@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de **Engenharia de Software na 
 - 🔍 Interesse em **Infraestrutura como Código, CI/CD e IAs**.  
 
 📫 **Como me encontrar:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-batista-2b9a48281/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunathanbat@gmail.com)  
 
 ---
