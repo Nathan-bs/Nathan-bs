@@ -6,8 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de **Engenharia de Software na 
 
 ## 🚀 Sobre mim  
 - 🎓 **Estudante de Engenharia de Software** na Universidade de Brasília.  
-- 💡 Aprimorando conhecimentos em **DevOps e Machine Learning**.  
-- 🔍 Interesse em **Infraestrutura como Código, CI/CD e IAs**.  
+- 💡 Estagiário em Automações e Desenvolvimento FullStack na Comando Auto Peças.  
 
 📫 **Como me encontrar:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-batista-2b9a48281/)  
