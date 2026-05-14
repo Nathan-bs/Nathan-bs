@@ -29,10 +29,16 @@ Sou estudante de **Engenharia de Software na UnB (Gama)** e desenvolvedor focado
 
 ---
 
-## 📊 Estatísticas
+## 📊 Meu Ecossistema Dev
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-bs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-bs&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://metrics.lecoq.io/Nathan-bs?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FBrasilia" alt="Metrics" width="100%">
+</div>
+
+---
+
+## 🏆 Conquistas
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathan-bs&theme=radical&no-bg=true&column=4" alt="Trophies" />
 </div>
 
 ---
