@@ -43,10 +43,12 @@ Sou estudante de **Engenharia de Software na UnB (Gama)** e desenvolvedor focado
 
 ---
 
-## 🐍 Snake Game (My Contributions)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-bs/Nathan-bs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 🐍 Histórico de Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathan-bs/Nathan-bs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathan-bs/Nathan-bs/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Nathan-bs/Nathan-bs/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
