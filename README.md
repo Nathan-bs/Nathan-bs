@@ -31,7 +31,7 @@ Sou estudante de **Engenharia de Software na UnB (Gama)** e desenvolvedor focado
 
 ## 📊 Meu Ecossistema Dev
 <div align="center">
-  <img src="https://metrics.lecoq.io/Nathan-bs?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FBrasilia" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/Nathan-bs/Nathan-bs/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
